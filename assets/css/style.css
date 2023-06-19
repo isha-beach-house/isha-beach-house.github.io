@@ -388,11 +388,6 @@ h6 {
   display: block;
 }
 
-@font-face {
-  font-family: 'Saman';
-  src: url('assets/fonts/saman.ttf') format('truetype');
-}
-
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -581,7 +576,7 @@ section {
 
 #about .about-container .background {
   min-height: 300px;
-  background: url(../img/portfolio/outside-garden-1.jpg) center top no-repeat;
+  background: url(../img/portfolio/outside-beach-walkway.jpeg) center no-repeat;
   margin-bottom: 10px;
 }
 
